@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ecopet/static/css/main.c9fb46a6.chunk.css",
-    "main.js": "/ecopet/static/js/main.acd57f0b.chunk.js",
-    "main.js.map": "/ecopet/static/js/main.acd57f0b.chunk.js.map",
+    "main.js": "/ecopet/static/js/main.cc3767c4.chunk.js",
+    "main.js.map": "/ecopet/static/js/main.cc3767c4.chunk.js.map",
     "runtime~main.js": "/ecopet/static/js/runtime~main.dcbc9967.js",
     "runtime~main.js.map": "/ecopet/static/js/runtime~main.dcbc9967.js.map",
     "static/js/2.c17ea0b2.chunk.js": "/ecopet/static/js/2.c17ea0b2.chunk.js",
     "static/js/2.c17ea0b2.chunk.js.map": "/ecopet/static/js/2.c17ea0b2.chunk.js.map",
     "index.html": "/ecopet/index.html",
-    "precache-manifest.740b97ecb6b4b58308b2833c2f603501.js": "/ecopet/precache-manifest.740b97ecb6b4b58308b2833c2f603501.js",
+    "precache-manifest.771678a94e233f8c5537c64a864b4043.js": "/ecopet/precache-manifest.771678a94e233f8c5537c64a864b4043.js",
     "service-worker.js": "/ecopet/service-worker.js",
     "static/css/main.c9fb46a6.chunk.css.map": "/ecopet/static/css/main.c9fb46a6.chunk.css.map"
   }

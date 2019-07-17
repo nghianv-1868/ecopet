@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf3c23e954a82090e19409f31763cca8",
+    "revision": "44f1d51a0ebebfca67631e815f1338f5",
     "url": "/ecopet/index.html"
   },
   {
-    "revision": "6134785e1d80a865bec4",
+    "revision": "fc445fdba45fe374609c",
     "url": "/ecopet/static/css/main.c9fb46a6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ecopet/static/js/2.c17ea0b2.chunk.js"
   },
   {
-    "revision": "6134785e1d80a865bec4",
-    "url": "/ecopet/static/js/main.acd57f0b.chunk.js"
+    "revision": "fc445fdba45fe374609c",
+    "url": "/ecopet/static/js/main.cc3767c4.chunk.js"
   },
   {
     "revision": "d53fb2b642da43dad009",
